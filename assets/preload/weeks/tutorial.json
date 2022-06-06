@@ -1,18 +1,19 @@
 {
 	"songs": [
-		["Tutorial", "gf", [165, 0, 77]]
+		["Hugs", "huggywuggy", [34, 51, 68]],
+		["Squish", "huggywuggy", [34, 51, 68]]
 	],
 
 	"weekCharacters": [
-		"",
+		"huggywuggy",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "stage",
+	"weekBackground": "halloween",
 
-	"storyName": "",
-	"weekBefore": "tutorial",
-	"weekName": "Tutorial",
+	"storyName": "Spooky Month",
+	"weekBefore": "week1",
+	"weekName": "Week 2",
 	"startUnlocked": true,
 
 	"hideStoryMode": false,
